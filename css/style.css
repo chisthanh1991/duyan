@@ -1237,7 +1237,7 @@ a.article-title:hover {
   border-width: 1px 0;
   overflow: auto;
   color: #e3e3e3;
-  font-size: inherit;
+  font-size: 15px;
   line-height: 26px;
 }
 @media screen and (max-width: 750px) {
@@ -1275,7 +1275,7 @@ figure.highlight::-webkit-scrollbar-track {
 .article-entry code {
   color: #333;
   padding: 0.1em 0.4em;
-  font-size: 14px;
+  font-size: 16px;
 }
 .article-entry pre code {
   background: none;
