@@ -590,7 +590,7 @@ a.article-title:hover {
   margin-top: -1.5em;
 }
 .article-entry blockquote p {
-  font-size: 14px;
+  font-size: 15px;
 }
 .article-entry blockquote footer {
   font-size: 14px;
@@ -1275,7 +1275,7 @@ figure.highlight::-webkit-scrollbar-track {
 .article-entry code {
   color: #333;
   padding: 0.1em 0.4em;
-  font-size: 16px;
+  font-size: 15px;
 }
 .article-entry pre code {
   background: none;
