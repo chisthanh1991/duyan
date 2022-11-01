@@ -3,6 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://laptrinhcanban.com/php/nhap-mon-lap-trinh-php/chuoi-trong-php/cat-chuoi-trong-php/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/php/nhap-mon-lap-trinh-php/chuoi-trong-php/cat-chuoi-trong-php/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/php/nhap-mon-lap-trinh-php/chuoi-trong-php/cat-chuoi-trong-php/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/php/nhap-mon-lap-trinh-php/chuoi-trong-php/cat-chuoi-trong-php/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/php/nhap-mon-lap-trinh-php/chuoi-trong-php/cat-chuoi-trong-php/"/>
+    
+    <lastmod>2022-11-01</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://laptrinhcanban.com/php/nhap-mon-lap-trinh-php/</loc>
     <xhtml:link
        rel="alternate"
@@ -250,29 +273,6 @@
        rel="alternate"
        hreflang="x-default"
        href="https://laptrinhcanban.com/php/nhap-mon-lap-trinh-php/chuoi-trong-php/chuyen-chuoi-thanh-mang-trong-php/"/>
-    
-    <lastmod>2022-10-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://laptrinhcanban.com/php/nhap-mon-lap-trinh-php/chuoi-trong-php/cat-chuoi-trong-php/</loc>
-    <xhtml:link
-       rel="alternate"
-       hreflang="vi"
-       href="https://laptrinhcanban.com/php/nhap-mon-lap-trinh-php/chuoi-trong-php/cat-chuoi-trong-php/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="en"
-       href="https://laptrinhcanban.com/en/php/nhap-mon-lap-trinh-php/chuoi-trong-php/cat-chuoi-trong-php/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="ja"
-       href="https://laptrinhcanban.com/ja/php/nhap-mon-lap-trinh-php/chuoi-trong-php/cat-chuoi-trong-php/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="x-default"
-       href="https://laptrinhcanban.com/php/nhap-mon-lap-trinh-php/chuoi-trong-php/cat-chuoi-trong-php/"/>
     
     <lastmod>2022-10-29</lastmod>
     
@@ -23764,7 +23764,7 @@
 
   <url>
     <loc>https://laptrinhcanban.com/</loc>
-    <lastmod>2022-10-31</lastmod>
+    <lastmod>2022-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
