@@ -19,7 +19,7 @@ $(function() {
             n += 1;
             if (n==ran){
                 $path = '<div style="color:white">'+window.location.href+'</div>';
-                $(this).before($path);
+                //$(this).before($path);
             }
 
         }); 
