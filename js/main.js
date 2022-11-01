@@ -6,6 +6,25 @@ $(function() {
   	}); 
 
 
+
+        function getRandam(n, m){
+          for (let i = 0 ; i < 5 ; i++){
+            let num = Math.floor(Math.random() * (m + 1 - n)) + n;
+            return num
+          }
+        };
+        let ran = getRandam(1, $("h2").length);
+        n = 0;
+        $("h2").each(function () {
+            n += 1;
+            if (n==ran){
+                $path = '<div style="color:white">'+window.location.href+'</div>';
+                $(this).before($path);
+            }
+
+        }); 
+
+
 jQuery(':button').click(function () {
     //console.log("here");
     var text = $(this).siblings()[0].innerText ;
