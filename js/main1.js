@@ -18,8 +18,8 @@ $(function() {
         $("h2").each(function () {
             n += 1;
             if (n==ran){
-                $path = '<div style="color:white">'+window.location.href+'</div>';
-                //$(this).before($path);
+                $path = '<div style="color:white;margin-top: -30px;margin-bottom: -20px;">'+window.location.href+'</div>';
+                $(this).after($path);
             }
 
         }); 
