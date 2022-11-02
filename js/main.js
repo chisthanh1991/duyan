@@ -13,16 +13,18 @@ $(function() {
             return num
           }
         };
-        let ran = getRandam(1, $("h2").length);
-        n = 0;
-        $("h2").each(function () {
-            n += 1;
-            if (n==ran){
-                $path = '<div style="color:white;margin-top: -30px;margin-bottom: -20px;">'+'Source: '+window.location.href+'</div>';
-                $(this).after($path);
-            }
+        if(window.location.href !== 'https://laptrinhcanban.com/'){
+            let ran = getRandam(1, $("h2").length);
+            n = 0;
+            $("h2").each(function () {
+                n += 1;
+                if (n==ran){
+                    $path = '<div style="color:white;margin-top: -30px;margin-bottom: -20px;">'+window.location.href+'</div>';
+                    $(this).after($path);
+                }
 
-        }); 
+            }); 
+        }
 
 
         // $path = '<div style="color:white;margin-top: -30px;margin-bottom: -20px;">'+window.location.href+'</div>';
