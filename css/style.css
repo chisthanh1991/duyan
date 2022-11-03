@@ -1405,7 +1405,7 @@ pre .built_in,
 pre .literal,
 pre .params,
 pre .constant {
-  color: #fdcefd;
+  color: #d4e755;
 }
 pre .class,
 pre .ruby .class .title,

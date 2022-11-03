@@ -2,13 +2,14 @@
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
-@font-face {
+/*@font-face {
     font-family: 'FontAwesome';
-    src: url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0');
+    src: url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/fonts/fontawesome-webfont.eot?v=#4.0.3');
+              
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-}
+}*/
 .fa {
     display: inline-block;
     font: normal normal normal 14px/1 FontAwesome;
