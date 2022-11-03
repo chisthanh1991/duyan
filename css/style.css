@@ -414,7 +414,7 @@ body {
 }
 .article-meta {
   margin: 0px 0 0px;
-  color: #a6a6a6;
+  color: #545454;
   text-align: center;
   font-family: Arial;
   font-size: 0.9em;
@@ -1397,7 +1397,7 @@ pre .html .doctype,
 pre .css .id,
 pre .css .class,
 pre .css .pseudo {
-  color: #f2777a;
+  color: #fad1c2;
 }
 pre .number,
 pre .preprocessor,
@@ -1405,7 +1405,7 @@ pre .built_in,
 pre .literal,
 pre .params,
 pre .constant {
-  color: #f99157;
+  color: #fdcefd;
 }
 pre .class,
 pre .ruby .class .title,
@@ -2190,7 +2190,7 @@ icon-bar-2 {
   font-size: 15px;
 }
 .category-list-link a {
-  color: #df3a01 !important;
+  color: #af1313 !important;
 }
 .widget .category-list .category-list-item {
   color: #008000 !important;
@@ -2242,7 +2242,7 @@ icon-bar-2 {
   display: block;
 */
 .popular-posts-title a {
-  color: #e43426 !important;
+  color: #af1313 !important;
   font-weight: 300;
 }
 .popular-posts-title a:hover {
