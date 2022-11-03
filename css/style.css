@@ -1674,7 +1674,7 @@ pre .javascript .function {
   margin: 0;
   font-size: 1em;
   line-height: 1.2;
-  color: #df3a01;
+  color: #af1313;
   font-family: Arial, Helvetica, sans-serif, Oswald, "Microsoft Yahei";
 }
 .widget_athemes_tabs .widget ul li a:hover {
@@ -1844,7 +1844,7 @@ span {
   margin-top: 10px;
   border-radius: 20px;
   position: relative;
-  background-color: #fe2e64;
+  background-color: #a81c00;
   width: 100%;
 }
 /* アイコンを下に表示 */
@@ -1856,7 +1856,7 @@ span {
   height: 0;
   left: 20px;
   bottom: -10px;
-  border-top: 15px solid #fd3c2f;
+  border-top: 15px solid #a81c00;
   border-right: 15px solid transparent;
   border-left: 15px solid transparent;
 }
