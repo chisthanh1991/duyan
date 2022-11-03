@@ -12,9 +12,9 @@ html {
     -ms-text-size-adjust: 100%
 }
 
-body {
+/*body {
     margin: 0
-}
+}*/
 
 a {
     background: transparent
@@ -24,9 +24,9 @@ h1 {
     margin: .67em 0;
     font-size: 2em
 }
-b,strong {
+/*b,strong {
     font-weight: bold
-}
+}*/
 hr {
     height: 0;
     -moz-box-sizing: content-box;
@@ -85,13 +85,13 @@ html {
     -webkit-tap-highlight-color: rgba(0,0,0,0)
 }
 
-body {
+/*body {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 14px;
     line-height: 1.428571429;
     color: #333;
     background-color: #fff
-}
+}*/
 
 input,button,select,textarea {
     font-family: inherit;
@@ -112,9 +112,9 @@ hr {
     border: 0;
     border-top: 1px solid #eee
 }
-p {
+/*p {
     margin: 0 0 10px
-}
+}*/
 h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 500;
