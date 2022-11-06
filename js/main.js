@@ -19,7 +19,7 @@ $(function() {
             $("h2").each(function () {
                 n += 1;
                 if (n==ran){
-                    $path = '<div style="color:white;margin-top: -30px;margin-bottom: -20px;">'+ '<a style="color:white;" href="' +   window.location.href+ '">Bài viết đăng tại: laptrinhcanban.com' + '</div>';
+                    $path = '<div style="color:white;margin-top: -30px;margin-bottom: -20px;">'+ '<a style="color:white;" href="' +   window.location.href+ '">Bài viết đăng tại: '+window.location.href+  '</div>';
                     $(this).after($path);
                 }
 
