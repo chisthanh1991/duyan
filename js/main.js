@@ -7,6 +7,9 @@ $(function() {
 
 
 
+
+
+
         function getRandam(n, m){
           for (let i = 0 ; i < 5 ; i++){
             let num = Math.floor(Math.random() * (m + 1 - n)) + n;
