@@ -2307,8 +2307,6 @@ icon-bar-2 {
 .widget-entry-summary {
   font-family: 'Helvetica', 'Arial', 'Consolas', '游ゴシック', 'Hiragino Sans', 'Helvetica', 'メイリオ', 'sans-serif' !important;
 }
-@media screen and (max-width: 980px) {
-  .grecaptcha-badge {
-    visibility: hidden;
-  }
+.grecaptcha-badge {
+  visibility: hidden;
 }
