@@ -280,24 +280,7 @@ function myFunction() {
   */
 }
 
-//copy
 
-jQuery(':button').click(function () {
-    var text = $(this).siblings()[0].innerText ;
-    let $textarea = $('<textarea></textarea>');
-    $textarea.text(text);
-    $(this).append($textarea);
-    $textarea.select();
-    document.execCommand('copy');
-    $textarea.remove();
-
-
-    $(this).text("Copied"); 
-
-    setTimeout(function(){
-      $('.code-copy-btn').text("Copy");
-    },2000)
-});
 
 
 

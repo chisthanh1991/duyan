@@ -3,29 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/</loc>
-    <xhtml:link
-       rel="alternate"
-       hreflang="vi"
-       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="en"
-       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="ja"
-       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="x-default"
-       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/"/>
-    
-    <lastmod>2021-10-05</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/</loc>
     <xhtml:link
        rel="alternate"
@@ -44,30 +21,720 @@
        hreflang="x-default"
        href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/"/>
     
-    <lastmod>2021-10-05</lastmod>
+    <lastmod>2022-11-15</lastmod>
     
   </url>
   
   <url>
-    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/toan-tu-thao-tac-bit-trong-python/</loc>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/nhap-xuat-trong-python/</loc>
     <xhtml:link
        rel="alternate"
        hreflang="vi"
-       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/toan-tu-thao-tac-bit-trong-python/"/>
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/nhap-xuat-trong-python/"/>
     <xhtml:link
        rel="alternate"
        hreflang="en"
-       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/so-trong-python/toan-tu-thao-tac-bit-trong-python/"/>
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/nhap-xuat-trong-python/"/>
     <xhtml:link
        rel="alternate"
        hreflang="ja"
-       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/so-trong-python/toan-tu-thao-tac-bit-trong-python/"/>
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/nhap-xuat-trong-python/"/>
     <xhtml:link
        rel="alternate"
        hreflang="x-default"
-       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/toan-tu-thao-tac-bit-trong-python/"/>
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/nhap-xuat-trong-python/"/>
     
-    <lastmod>2021-08-20</lastmod>
+    <lastmod>2022-11-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/list-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/list-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/"/>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/kien-thuc-can-ban-ve-chuong-trinh-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/kien-thuc-can-ban-ve-chuong-trinh-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/kien-thuc-can-ban-ve-chuong-trinh-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/kien-thuc-can-ban-ve-chuong-trinh-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/kien-thuc-can-ban-ve-chuong-trinh-python/"/>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/gioi-thieu-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/gioi-thieu-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/gioi-thieu-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/gioi-thieu-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/gioi-thieu-python/"/>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/datetime-trong-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/datetime-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/datetime-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/datetime-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/datetime-trong-python/"/>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/cai-dat-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/cai-dat-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/cai-dat-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/cai-dat-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/cai-dat-python/"/>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/bien-trong-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/bien-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/bien-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/bien-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/bien-trong-python/"/>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/"/>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/list-comprehension-trong-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/list-comprehension-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/list-trong-python/list-comprehension-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/list-trong-python/list-comprehension-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/list-comprehension-trong-python/"/>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/kiem-tra-va-lay-phan-tu-trung-nhau-trong-list-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/kiem-tra-va-lay-phan-tu-trung-nhau-trong-list-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/list-trong-python/kiem-tra-va-lay-phan-tu-trung-nhau-trong-list-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/list-trong-python/kiem-tra-va-lay-phan-tu-trung-nhau-trong-list-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/kiem-tra-va-lay-phan-tu-trung-nhau-trong-list-python/"/>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/khoi-tao-list-trong-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/khoi-tao-list-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/list-trong-python/khoi-tao-list-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/list-trong-python/khoi-tao-list-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/khoi-tao-list-trong-python/"/>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/extend-trong-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/extend-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/list-trong-python/extend-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/list-trong-python/extend-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/extend-trong-python/"/>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/dem-so-phan-tu-trong-list-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/dem-so-phan-tu-trong-list-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/list-trong-python/dem-so-phan-tu-trong-list-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/list-trong-python/dem-so-phan-tu-trong-list-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/dem-so-phan-tu-trong-list-python/"/>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/dao-nguoc-list-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/dao-nguoc-list-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/list-trong-python/dao-nguoc-list-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/list-trong-python/dao-nguoc-list-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/dao-nguoc-list-python/"/>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/chuyen-string-sang-list-trong-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/chuyen-string-sang-list-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/list-trong-python/chuyen-string-sang-list-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/list-trong-python/chuyen-string-sang-list-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/chuyen-string-sang-list-trong-python/"/>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/chen-phan-tu-vao-list-trong-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/chen-phan-tu-vao-list-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/list-trong-python/chen-phan-tu-vao-list-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/list-trong-python/chen-phan-tu-vao-list-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/chen-phan-tu-vao-list-trong-python/"/>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/cat-lat-list-trong-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/cat-lat-list-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/list-trong-python/cat-lat-list-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/list-trong-python/cat-lat-list-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/cat-lat-list-trong-python/"/>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/append-trong-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/append-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/list-trong-python/append-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/list-trong-python/append-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/list-trong-python/append-trong-python/"/>
+    
+    <lastmod>2022-11-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/datetime-trong-python/cong-tru-ngay-thang-va-so-sanh-thoi-gian-trong-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/datetime-trong-python/cong-tru-ngay-thang-va-so-sanh-thoi-gian-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/datetime-trong-python/cong-tru-ngay-thang-va-so-sanh-thoi-gian-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/datetime-trong-python/cong-tru-ngay-thang-va-so-sanh-thoi-gian-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/datetime-trong-python/cong-tru-ngay-thang-va-so-sanh-thoi-gian-trong-python/"/>
+    
+    <lastmod>2022-11-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/datetime-trong-python/chuyen-string-sang-datetime-trong-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/datetime-trong-python/chuyen-string-sang-datetime-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/datetime-trong-python/chuyen-string-sang-datetime-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/datetime-trong-python/chuyen-string-sang-datetime-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/datetime-trong-python/chuyen-string-sang-datetime-trong-python/"/>
+    
+    <lastmod>2022-11-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/datetime-trong-python/chuyen-datetime-sang-string-trong-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/datetime-trong-python/chuyen-datetime-sang-string-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/datetime-trong-python/chuyen-datetime-sang-string-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/datetime-trong-python/chuyen-datetime-sang-string-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/datetime-trong-python/chuyen-datetime-sang-string-trong-python/"/>
+    
+    <lastmod>2022-11-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/bien-trong-python/xoa-bien-trong-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/bien-trong-python/xoa-bien-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/bien-trong-python/xoa-bien-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/bien-trong-python/xoa-bien-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/bien-trong-python/xoa-bien-trong-python/"/>
+    
+    <lastmod>2022-11-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/bien-trong-python/nhap-bien-trong-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/bien-trong-python/nhap-bien-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/bien-trong-python/nhap-bien-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/bien-trong-python/nhap-bien-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/bien-trong-python/nhap-bien-trong-python/"/>
+    
+    <lastmod>2022-11-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/bien-trong-python/gan-bien-trong-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/bien-trong-python/gan-bien-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/bien-trong-python/gan-bien-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/bien-trong-python/gan-bien-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/bien-trong-python/gan-bien-trong-python/"/>
+    
+    <lastmod>2022-11-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/bien-trong-python/khai-bao-bien-trong-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/bien-trong-python/khai-bao-bien-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/bien-trong-python/khai-bao-bien-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/bien-trong-python/khai-bao-bien-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/bien-trong-python/khai-bao-bien-trong-python/"/>
+    
+    <lastmod>2022-11-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/bien-trong-python/bien-trong-python-la-gi/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/bien-trong-python/bien-trong-python-la-gi/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/bien-trong-python/bien-trong-python-la-gi/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/bien-trong-python/bien-trong-python-la-gi/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/bien-trong-python/bien-trong-python-la-gi/"/>
+    
+    <lastmod>2022-11-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/kiem-tra-so-nguyen-so-thuc-trong-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/kiem-tra-so-nguyen-so-thuc-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/so-trong-python/kiem-tra-so-nguyen-so-thuc-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/so-trong-python/kiem-tra-so-nguyen-so-thuc-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/kiem-tra-so-nguyen-so-thuc-trong-python/"/>
+    
+    <lastmod>2022-09-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/kiem-tra-so-hoan-hao-trong-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/kiem-tra-so-hoan-hao-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/so-trong-python/kiem-tra-so-hoan-hao-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/so-trong-python/kiem-tra-so-hoan-hao-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/kiem-tra-so-hoan-hao-trong-python/"/>
+    
+    <lastmod>2022-09-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/chuyen-chuoi-thanh-so-trong-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/chuyen-chuoi-thanh-so-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/so-trong-python/chuyen-chuoi-thanh-so-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/so-trong-python/chuyen-chuoi-thanh-so-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/chuyen-chuoi-thanh-so-trong-python/"/>
+    
+    <lastmod>2022-09-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/kiem-tra-so-chinh-phuong-trong-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/kiem-tra-so-chinh-phuong-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/so-trong-python/kiem-tra-so-chinh-phuong-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/so-trong-python/kiem-tra-so-chinh-phuong-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/kiem-tra-so-chinh-phuong-trong-python/"/>
+    
+    <lastmod>2022-09-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/kiem-tra-so-chan-le-trong-python/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/kiem-tra-so-chan-le-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/so-trong-python/kiem-tra-so-chan-le-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/so-trong-python/kiem-tra-so-chan-le-trong-python/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/kiem-tra-so-chan-le-trong-python/"/>
+    
+    <lastmod>2022-09-14</lastmod>
     
   </url>
   
@@ -95,29 +762,6 @@
   </url>
   
   <url>
-    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/nhap-xuat-trong-python/</loc>
-    <xhtml:link
-       rel="alternate"
-       hreflang="vi"
-       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/nhap-xuat-trong-python/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="en"
-       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/nhap-xuat-trong-python/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="ja"
-       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/nhap-xuat-trong-python/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="x-default"
-       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/nhap-xuat-trong-python/"/>
-    
-    <lastmod>2021-08-20</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/kien-thuc-can-ban-ve-chuong-trinh-python/lam-chu-bon-cach-chay-python-pho-bien/</loc>
     <xhtml:link
        rel="alternate"
@@ -135,52 +779,6 @@
        rel="alternate"
        hreflang="x-default"
        href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/kien-thuc-can-ban-ve-chuong-trinh-python/lam-chu-bon-cach-chay-python-pho-bien/"/>
-    
-    <lastmod>2021-08-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/toan-tu-so-hoc-trong-python/</loc>
-    <xhtml:link
-       rel="alternate"
-       hreflang="vi"
-       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/toan-tu-so-hoc-trong-python/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="en"
-       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/so-trong-python/toan-tu-so-hoc-trong-python/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="ja"
-       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/so-trong-python/toan-tu-so-hoc-trong-python/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="x-default"
-       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/toan-tu-so-hoc-trong-python/"/>
-    
-    <lastmod>2021-08-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/so-trong-python/</loc>
-    <xhtml:link
-       rel="alternate"
-       hreflang="vi"
-       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/so-trong-python/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="en"
-       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/so-trong-python/so-trong-python/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="ja"
-       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/so-trong-python/so-trong-python/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="x-default"
-       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/so-trong-python/so-trong-python/"/>
     
     <lastmod>2021-08-20</lastmod>
     
@@ -463,52 +1061,6 @@
   </url>
   
   <url>
-    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/kien-thuc-can-ban-ve-chuong-trinh-python/</loc>
-    <xhtml:link
-       rel="alternate"
-       hreflang="vi"
-       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/kien-thuc-can-ban-ve-chuong-trinh-python/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="en"
-       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/kien-thuc-can-ban-ve-chuong-trinh-python/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="ja"
-       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/kien-thuc-can-ban-ve-chuong-trinh-python/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="x-default"
-       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/kien-thuc-can-ban-ve-chuong-trinh-python/"/>
-    
-    <lastmod>2021-08-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/gioi-thieu-python/</loc>
-    <xhtml:link
-       rel="alternate"
-       hreflang="vi"
-       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/gioi-thieu-python/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="en"
-       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/gioi-thieu-python/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="ja"
-       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/gioi-thieu-python/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="x-default"
-       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/gioi-thieu-python/"/>
-    
-    <lastmod>2021-08-19</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/gioi-thieu-python/ban-co-nen-hoc-python/</loc>
     <xhtml:link
        rel="alternate"
@@ -601,29 +1153,6 @@
   </url>
   
   <url>
-    <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/cai-dat-python/</loc>
-    <xhtml:link
-       rel="alternate"
-       hreflang="vi"
-       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/cai-dat-python/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="en"
-       href="https://laptrinhcanban.com/en/python/nhap-mon-lap-trinh-python/cai-dat-python/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="ja"
-       href="https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/cai-dat-python/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="x-default"
-       href="https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/cai-dat-python/"/>
-    
-    <lastmod>2021-08-19</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://laptrinhcanban.com/python/nhap-mon-lap-trinh-python/kien-thuc-can-ban-ve-chuong-trinh-python/dat-ma-ky-trong-file-python/</loc>
     <xhtml:link
        rel="alternate"
@@ -672,7 +1201,7 @@
 
   <url>
     <loc>https://laptrinhcanban.com/</loc>
-    <lastmod>2021-10-05</lastmod>
+    <lastmod>2022-11-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

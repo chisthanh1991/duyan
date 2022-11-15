@@ -22,7 +22,7 @@ $(function() {
             $("h2").each(function () {
                 n += 1;
                 if (n==ran){
-                    $path = '<div style="color:white;margin-top: -30px;margin-bottom: -20px;">'+ '<a style="color:white;" href="' +   window.location.href+ '">Bài viết đăng tại: '+window.location.href+  '</div>';
+                    $path = '<div style="color:white;margin-top: -30px;margin-bottom: -20px;">'+ '<a style="color:white;" href="' +   window.location.href+ '">Nguồn: '+window.location.href+  '</div>';
                     $(this).after($path);
                 }
 
@@ -35,7 +35,7 @@ $(function() {
         // $("#Tong-ket-va-thuc-hanh").after($path);
 
 document.addEventListener('copy', (event) => {
-  const pagelink = `\n\nXem thêm: ${document.location.href}`;
+  const pagelink = `\n\nSource: ${document.location.href}`;
   event.clipboardData.setData('text/plain', document.getSelection() + pagelink);
   event.preventDefault();
 });

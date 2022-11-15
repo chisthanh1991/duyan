@@ -111,16 +111,18 @@ button::-moz-focus-inner {
   padding: 0;
 }
 @font-face {
-  font-family: "FontAwesome";
+  font-display: swap;
+  font-family: fontawesome;
   font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
   src: url("fonts/fontawesome-webfont.eot?v=#4.0.3");
   src: url("fonts/fontawesome-webfont.eot?#iefix&v=#4.0.3") format("embedded-opentype"), url("fonts/fontawesome-webfont.woff?v=#4.0.3") format("woff"), url("fonts/fontawesome-webfont.ttf?v=#4.0.3") format("truetype"), url("fonts/fontawesome-webfont.svg#fontawesomeregular?v=#4.0.3") format("svg");
 }
 @font-face {
-  font-family: 'Font Awesome 5 Free';
+  font-display: swap;
+  font-family: 'font awesome 5 free';
   font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
   src: url("fonts/icomoon/fonts/icomoon.eot") format('eot'), url("fonts/icomoon/fonts/icomoon.ttf") format('truetype'), url("fonts/icomoon/fonts/icomoon.woff") format('woff'), url("fonts/icomoon/fonts/icomoon.svg") format('svg');
 }
 html,
@@ -143,6 +145,7 @@ body {
 .article-entry h3 {
   border-left: solid 3px #f00;
   padding-left: 4px;
+  margin-left: 11px !important;
 }
 #rocket {
   position: fixed;
@@ -411,9 +414,9 @@ body {
 }
 .article-meta {
   margin: 0px 0 0px;
-  color: #a6a6a6;
+  color: #545454;
   text-align: center;
-  font-family: "Helvetica Neue";
+  font-family: Arial;
   font-size: 0.9em;
 }
 .article-meta:before,
@@ -475,7 +478,7 @@ body {
   text-decoration: none;
 }
 .article-title {
-  font-family: "Segoe UI", "Helvetica Neue", "游ゴシック", "Yu Gothic";
+  font-family: Helvetica, Arial, "游ゴシック", "Yu Gothic";
   text-decoration: none;
   font-weight: bold;
   color: #555;
@@ -503,7 +506,7 @@ a.article-title:hover {
 }
 .article-entry p {
   color: #333;
-  font-family: "Segoe UI", "Helvetica Neue", "游ゴシック", "Yu Gothic";
+  font-family: Helvetica, Arial, "游ゴシック", "Yu Gothic";
   padding: 0px 10px 0px;
 }
 .article-entry p,
@@ -518,7 +521,7 @@ a.article-title:hover {
 .article-entry h5,
 .article-entry h6 {
   font-weight: bold;
-  font-family: "Segoe UI", "Helvetica Neue", "游ゴシック", "Yu Gothic";
+  font-family: Helvetica, Arial, "游ゴシック", "Yu Gothic";
 }
 .article-entry h1,
 .article-entry h2,
@@ -528,7 +531,7 @@ a.article-title:hover {
 .article-entry h6 {
   line-height: 1.1em;
   margin: 1.1em 0;
-  font-family: "Segoe UI", "Helvetica Neue", "游ゴシック", "Yu Gothic";
+  font-family: Arial, Helvetica, "游ゴシック", "Yu Gothic";
 }
 .article-entry a {
   color: color-link;
@@ -589,7 +592,7 @@ a.article-title:hover {
   margin-top: -1.5em;
 }
 .article-entry blockquote p {
-  font-size: 14px;
+  font-size: 15px;
 }
 .article-entry blockquote footer {
   font-size: 14px;
@@ -611,7 +614,7 @@ a.article-title:hover {
   margin: 0;
 }
 .article-entry .pullquote p {
-  font-family: Georgia, Microsoft JhengHei, "" Helvetica Neue "";
+  font-family: Georgia, Microsoft JhengHei, "Arial";
   font-size: 19px;
 }
 .article-entry .pullquote:before {
@@ -940,7 +943,7 @@ a.article-title:hover {
   border-left: rgba(88,88,88,0.1) 1px solid;
   padding: 1em 0 0 1em;
   margin-left: 1em;
-  font-family: "Segoe UI";
+  font-family: Helvetica;
 }
 .toc-title {
   font-size: 100%;
@@ -966,6 +969,14 @@ a.article-title:hover {
     display: none;
   }
 }
+.toc-fixed {
+  position: fixed;
+  width: inherit !important;
+  top: 0px;
+  margin-top: 0;
+  overflow: hidden;
+  z-index: 1;
+}
 .nav {
   padding: 0;
   margin-top: 1em;
@@ -987,7 +998,7 @@ a.article-title:hover {
   color: #333;
 }
 .nav-text {
-  font-family: "Helvetica Neue";
+  font-family: Arial;
   font-size: 14px;
 }
 .nav-child {
@@ -1228,7 +1239,7 @@ a.article-title:hover {
   border-width: 1px 0;
   overflow: auto;
   color: #e3e3e3;
-  font-size: inherit;
+  font-size: 15px;
   line-height: 26px;
 }
 @media screen and (max-width: 750px) {
@@ -1261,12 +1272,12 @@ figure.highlight::-webkit-scrollbar-track {
 }
 .article-entry pre,
 .article-entry code {
-  font-family: Source Code Pro, Consolas, Menlo;
+  font-family: Consolas, Menlo, Source Code Pro;
 }
 .article-entry code {
   color: #333;
   padding: 0.1em 0.4em;
-  font-size: 14px;
+  font-size: 15px;
 }
 .article-entry pre code {
   background: none;
@@ -1386,7 +1397,7 @@ pre .html .doctype,
 pre .css .id,
 pre .css .class,
 pre .css .pseudo {
-  color: #f2777a;
+  color: #fad1c2;
 }
 pre .number,
 pre .preprocessor,
@@ -1394,7 +1405,7 @@ pre .built_in,
 pre .literal,
 pre .params,
 pre .constant {
-  color: #f99157;
+  color: #d4e755;
 }
 pre .class,
 pre .ruby .class .title,
@@ -1663,8 +1674,8 @@ pre .javascript .function {
   margin: 0;
   font-size: 1em;
   line-height: 1.2;
-  color: #df3a01;
-  font-family: Helvetica, Oswald, "Microsoft Yahei", Arial, sans-serif;
+  color: #af1313;
+  font-family: Arial, Helvetica, sans-serif, Oswald, "Microsoft Yahei";
 }
 .widget_athemes_tabs .widget ul li a:hover {
   color: #1fa0ae;
@@ -1776,7 +1787,9 @@ pre .javascript .function {
   width: 0%;
 }
 .code-copy-btn {
-  font-size: 12px;
+  padding: 0px 6px !important;
+  font-size: 10px;
+  border-radius: 50%;
   float: right;
 }
 @media screen and (max-width: 479px) {
@@ -1829,8 +1842,9 @@ span {
 /* 吹き出し本体 */
 #keugoi {
   margin-top: 10px;
+  border-radius: 20px;
   position: relative;
-  background-color: #fd3c2f;
+  background-color: #a81c00;
   width: 100%;
 }
 /* アイコンを下に表示 */
@@ -1841,8 +1855,8 @@ span {
   width: 0;
   height: 0;
   left: 20px;
-  bottom: -15px;
-  border-top: 15px solid #fd3c2f;
+  bottom: -10px;
+  border-top: 15px solid #a81c00;
   border-right: 15px solid transparent;
   border-left: 15px solid transparent;
 }
@@ -1897,7 +1911,7 @@ a {
   -moz-transition: 1s all;
   -ms-transition: 1s all;
   transition: 1s all;
-  width: 290px;
+  width: 180px;
   height: 180px;
 }
 .sample_box img:hover {
@@ -2032,13 +2046,14 @@ h4 {
 .icon-bar a {
   display: block;
   text-align: center;
-  padding: 3px;
+  padding: 15px;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
   transition: all 0.3s ease;
   font-size: 30px;
   background-color: #fff;
+  margin-left: -10px;
 }
 .icon-bar a:hover {
   border-radius: 50%;
@@ -2170,17 +2185,13 @@ icon-bar-2 {
 .nav {
   height: 470px;
   overflow: auto;
+  width: 300px;
 }
 .popular-posts-title h3 {
   font-size: 15px;
 }
-#sidebar {
-  position: -webkit-sticky;
-  position: sticky;
-  height: auto;
-}
 .category-list-link a {
-  color: #df3a01 !important;
+  color: #af1313 !important;
 }
 .widget .category-list .category-list-item {
   color: #008000 !important;
@@ -2196,23 +2207,24 @@ icon-bar-2 {
   color: #ff6347 !important;
   font-weight: bold;
 }
-/*
-.gsc-input-box
-.gsc-search-button
- height:40px !important;
-
-#___gcse_0
- width:300px !important;
- @media screen and (max-width: 980px) {
-    width:100% !important;
+.gsc-input-box,
+.gsc-search-button {
+  height: 40px !important;
+}
+#___gcse_0 {
+  width: 300px !important;
+}
+@media screen and (max-width: 980px) {
+  #___gcse_0 {
+    width: 100% !important;
   }
-.gsc-search-button-v2
+}
+.gsc-search-button-v2 {
   font-size: 0 !important;
   padding: 6px 27px !important;
-  //width: 30px !important;
-  height : 30px !important;
+  height: 30px !important;
   vertical-align: middle !important;
-*/
+}
 #recent_posts_down .active {
   list-style-type: none;
 }
@@ -2231,7 +2243,7 @@ icon-bar-2 {
   display: block;
 */
 .popular-posts-title a {
-  color: #e43426 !important;
+  color: #af1313 !important;
   font-weight: 300;
 }
 .popular-posts-title a:hover {
@@ -2293,12 +2305,13 @@ icon-bar-2 {
 .widget-wrap {
   width: 300px;
 }
-#catemokuji {
-  -webkit-box-shadow: rgba(50,50,93,0.25) 0px 2px 5px -1px, rgba(0,0,0,0.3) 0px 1px 3px -1px;
-  box-shadow: rgba(50,50,93,0.25) 0px 2px 5px -1px, rgba(0,0,0,0.3) 0px 1px 3px -1px;
+.widget-entry-summary {
+  font-family: 'Helvetica', 'Arial', 'Consolas', '游ゴシック', 'Hiragino Sans', 'Helvetica', 'メイリオ', 'sans-serif' !important;
 }
-.widget_athemes_tabs {
-  max-height: 400px;
-  width: 300px;
-  overflow-y: scroll;
+.grecaptcha-badge {
+  visibility: hidden;
+}
+.widget-title {
+  margin-bottom: 0.5px;
+  margin: 0 0 1px;
 }
