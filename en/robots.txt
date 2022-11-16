@@ -1,4 +1,3 @@
-User-agent: DMCA.com Page Protection Crawling Service
 User-agent: *
 Disallow: /archives/
 Disallow: /categories/
