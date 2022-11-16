@@ -1,3 +1,4 @@
+User-agent: DMCA.com Page Protection Crawling Service
 User-agent: *
 Disallow: /archives/
 Disallow: /categories/
@@ -5,5 +6,10 @@ Disallow: /fancybox/
 Disallow: /tag/
 Disallow: /tags/
 Disallow: /category/
-Disallow: /online_window/
-Sitemap: https://laptrinhcanban.com/sitemap.xml
+Disallow: /page/
+Disallow: /content.json
+Disallow: /ads.txt
+Disallow: /CNAME
+Disallow: /404.shtml
+Disallow: /404img.gif
+Sitemap: https://laptrinhcanban.com/ja/sitemap.xml
