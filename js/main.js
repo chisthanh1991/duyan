@@ -7,27 +7,31 @@ $(function() {
 
 
 
+        $path = '<h3 style="font-size:15px" id="URL"><a href="#URL" class="headerlink" title="URL Link"></a>URL Link</h3>'+
+        '<p style="font-size:15px;font-style: italic;color: #6594e0;"><a href="'+window.location.href+ '">'+window.location.href+'</a></p>'
 
 
+        $("#profile").before($path);
 
-        function getRandam(n, m){
-          for (let i = 0 ; i < 5 ; i++){
-            let num = Math.floor(Math.random() * (m + 1 - n)) + n;
-            return num
-          }
-        };
-        if(window.location.href !== 'https://laptrinhcanban.com/'){
-            let ran = getRandam(1, $("h2").length);
-            n = 0;
-            $("h2").each(function () {
-                n += 1;
-                if (n==ran){
-                    $path = '<div style="color:white;margin-top: -30px;margin-bottom: -20px;">'+ '<a style="color:white;" href="' +   window.location.href+ '">Nguồn: '+window.location.href+  '</div>';
-                    $(this).after($path);
-                }
 
-            }); 
-        }
+        // function getRandam(n, m){
+        //   for (let i = 0 ; i < 5 ; i++){
+        //     let num = Math.floor(Math.random() * (m + 1 - n)) + n;
+        //     return num
+        //   }
+        // };
+        // if(window.location.href !== 'https://laptrinhcanban.com/'){
+        //     let ran = getRandam(1, $("h2").length);
+        //     n = 0;
+        //     $("h2").each(function () {
+        //         n += 1;
+        //         if (n==ran){
+        //             $path = '<div style="color:white;margin-top: -30px;margin-bottom: -20px;">'+ '<a style="color:white;" href="' +   window.location.href+ '">Nguồn: '+window.location.href+  '</div>';
+        //             $(this).after($path);
+        //         }
+
+        //     }); 
+        // }
 
 
         // $path = '<div style="color:white;margin-top: -30px;margin-bottom: -20px;">'+window.location.href+'</div>';
