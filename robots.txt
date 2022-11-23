@@ -7,7 +7,5 @@ Disallow: /tags/
 Disallow: /category/
 Disallow: /page/
 Disallow: /content.json
-Disallow: /ads.txt
-Disallow: /CNAME
 Disallow: /404.shtml
 Disallow: /404img.gif
