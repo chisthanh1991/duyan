@@ -7,10 +7,10 @@ $(function() {
 
 
 
-        $path = '<h3 style="font-size:15px" id="URL"><a href="#URL" class="headerlink" title="URL Link"></a>URL Link</h3>'+
-        '<p style="font-size:15px;font-style: italic;color: #6594e0;"><a href="'+window.location.href+ '">'+window.location.href+'</a></p>'
+        // $path = '<h3 style="font-size:15px" id="URL"><a href="#URL" class="headerlink" title="URL Link"></a>URL Link</h3>'+
+        // '<p style="font-size:15px;font-style: italic;color: #6594e0;"><a href="'+window.location.href+ '">'+window.location.href+'</a></p>'
 
-        $("#profile").before($path);
+        // $("#profile").before($path);
 
 
         // function getRandam(n, m){

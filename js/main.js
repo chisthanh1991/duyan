@@ -44,7 +44,7 @@ document.addEventListener('copy', (event) => {
   event.preventDefault();
 });
 
-jQuery(':button').click(function () {
+jQuery(':button').click(function (event) {
     //console.log("here");
     var text = $(this).siblings()[0].innerText ;
     let $textarea = $('<textarea></textarea>');
