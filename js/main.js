@@ -38,11 +38,11 @@ $(function() {
         // $("#Tong-ket").after($path);
         // $("#Tong-ket-va-thuc-hanh").after($path);
 
-document.addEventListener('copy', (event) => {
-  const pagelink = `\n\nSource: ${document.location.href}`;
-  event.clipboardData.setData('text/plain', document.getSelection() + pagelink);
-  event.preventDefault();
-});
+// document.addEventListener('copy', (event) => {
+//   const pagelink = `\n\nSource: ${document.location.href}`;
+//   event.clipboardData.setData('text/plain', document.getSelection() + pagelink);
+//   event.preventDefault();
+// });
 
 jQuery(':button').click(function (event) {
     //console.log("here");
