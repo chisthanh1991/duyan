@@ -46,7 +46,7 @@ $(function() {
 
 jQuery(':button').click(function (event) {
     //console.log("here");
-    var text = $(this).siblings()[0].innerText ;
+    let text = $(this).siblings()[0].innerText ;
     let $textarea = $('<textarea></textarea>');
     $textarea.text(text);
     $(this).append($textarea);
@@ -68,7 +68,7 @@ let $pagetop = $('.progress-container');
 
 $(window).on( 'scroll', function () {
     //スクロール位置を取得
-      var scroll = $(this).scrollTop();
+      let scroll = $(this).scrollTop();
     if ( $(this).scrollTop() < 250 ) {
       $pagetop.removeClass('isActive');
     } else {
@@ -80,9 +80,9 @@ $(window).on( 'scroll', function () {
 window.onscroll = function() {myFunction()};
 
 function myFunction() {
-  var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
-  var height = document.documentElement.scrollHeight - document.documentElement.clientHeight-1000;
-  var scrolled = ((winScroll -300) / height) * 100;
+  let winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+  let height = document.documentElement.scrollHeight - document.documentElement.clientHeight-1000;
+  let scrolled = ((winScroll -300) / height) * 100;
   document.getElementById("myBar").style.width = scrolled + "%";
   /*if (scrolled > 100){
     //$('#sidebar').css({"position":"fixed","top":"40px","-moz-transition": "top 0.1s linear"});
@@ -100,18 +100,22 @@ function myFunction() {
     //console.log("have sidebar_first",sidebar_h)
     //$('#sidebar').css({"top":-sidebar_h  -220 }); 
  // article toc
-var toc = document.getElementById('toc')
+let toc = document.getElementById('toc')
 
 if (toc != null) {
   window.addEventListener("scroll", scrollcatelogHandler);
-  var x = $("#sidebar_first").outerHeight();
-  var tocPosition =x+ 300.08; 
+  let x = $("#sidebar_first").outerHeight();
+
+  let y = $("#sidebar").outerHeight();
+  console.log(x,y);
+  
+  //let tocPosition =x+ 300.08;
+  let tocPosition =x+ 380; //420
 
   function scrollcatelogHandler(e) {
-     var event = e || window.event,
+     let event = e || window.event,
          target = event.target || event.srcElement;
-     var scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
-     
+     let scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
      if (scrollTop > tocPosition) {
          toc.classList.add("toc-fixed");
      } else {
@@ -191,13 +195,13 @@ $('.widget .category-list .category-list-item').each(function () {
  }); 
 
 // Highlight current nav item
-var hasCurrent = false;
+let hasCurrent = false;
 $('#main-nav > li').each(function () {
-	var url = window.location.href;
+	let url = window.location.href;
  
 
 	// if(url.toUpperCase().indexOf($(this).text().trim().toUpperCase()) != -1){
-  var tt= $(this).text();
+  let tt= $(this).text();
   if (tt=="c++") tt="cpp";
   if(url.search( "\/"+ tt+"\/") != -1){
 		$(this).addClass('current-menu-item current_page_item');

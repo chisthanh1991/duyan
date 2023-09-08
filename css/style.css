@@ -953,7 +953,14 @@ a.article-title:hover {
   content: "\f0ca";
   margin-right: 0.5em;
 }
+#sidebar_first {
+  border: solid #808080;
+}
+#ezoic-pub-ad-placeholder-147 {
+  border: solid #008000;
+}
 #toc {
+  border: solid #f00;
   line-height: 1em;
   font-size: 0.9em;
   float: left;
@@ -970,9 +977,9 @@ a.article-title:hover {
   }
 }
 .toc-fixed {
-  position: fixed;
+  position: sticky;
+  top: 100px;
   width: inherit !important;
-  top: 0px;
   margin-top: 0;
   overflow: hidden;
   z-index: 1;
