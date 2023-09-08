@@ -977,9 +977,9 @@ a.article-title:hover {
   }
 }
 .toc-fixed {
-  position: sticky;
-  top: 100px;
+  position: fixed;
   width: inherit !important;
+  top: 0px;
   margin-top: 0;
   overflow: hidden;
   z-index: 1;
