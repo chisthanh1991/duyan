@@ -952,6 +952,7 @@ a.article-title:hover {
   font-size: 0.9em;
   float: left;
   overflow: hidden;
+  height: 100vh;
 }
 @media screen and (max-width: 479px) {
   #toc {
