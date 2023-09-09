@@ -939,12 +939,6 @@ a.article-title:hover {
   width: 100%;
   margin: 0 auto;
 }
-.toc-article {
-  border-left: rgba(88,88,88,0.1) 1px solid;
-  padding: 1em 0 0 1em;
-  margin-left: 1em;
-  font-family: Helvetica;
-}
 .toc-title {
   font-size: 100%;
 }
@@ -977,10 +971,6 @@ a.article-title:hover {
   }
 }
 .toc-fixed {
-  border: solid #f00;
-  line-height: 1em;
-  font-size: 0.9em;
-  float: left;
   overflow: hidden;
   position: fixed;
   top: 0px;
