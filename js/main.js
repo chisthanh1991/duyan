@@ -115,16 +115,16 @@ if (toc != null) {
   let tocPosition = elem.offset().top + elem.outerHeight(true)+30;
   //console.log(tocPosition)
 
-  function scrollcatelogHandler(e) {
-     let event = e || window.event,
-         target = event.target || event.srcElement;
-     let scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
-     if (scrollTop > tocPosition) {
-         toc.classList.add("toc-fixed");
-     } else {
-         toc.classList.remove("toc-fixed");
-     }
-  }
+  // function scrollcatelogHandler(e) {
+  //    let event = e || window.event,
+  //        target = event.target || event.srcElement;
+  //    let scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+  //    if (scrollTop > tocPosition) {
+  //        toc.classList.add("toc-fixed");
+  //    } else {
+  //        toc.classList.remove("toc-fixed");
+  //    }
+  // }
 
     // var elem = $('#sidebar_first');
     // var elemOffset = elem.offset().top;
