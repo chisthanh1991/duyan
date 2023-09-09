@@ -104,13 +104,20 @@ let toc = document.getElementById('toc')
 
 if (toc != null) {
   window.addEventListener("scroll", scrollcatelogHandler);
-  let x = $("#sidebar_first").outerHeight();
 
-  let y = $("#sidebar").outerHeight();
-  console.log(x,y);
-  
+
+    var elem = $('#sidebar_first');
+    var elemOffset = elem.offset().top;
+   
+    var scrollPos = $(window).scrollTop();
+    var wh = $(window).height();
+
+    
+
+  //let x = $("#sidebar_first").outerHeight();
   //let tocPosition =x+ 300.08;
-  let tocPosition =x+ 380; //420
+  //let tocPosition =x+ 380; //420
+  let tocPosition = elemOffset + elem.outerHeight();
 
   function scrollcatelogHandler(e) {
      let event = e || window.event,
@@ -122,6 +129,22 @@ if (toc != null) {
          toc.classList.remove("toc-fixed");
      }
   }
+
+    // var elem = $('#sidebar_first');
+    // var elemOffset = elem.offset().top;
+   
+    // var scrollPos = $(window).scrollTop();
+    // var wh = $(window).height();
+
+    // var bottom = elemOffset + elem.outerHeight();
+
+    // console.log(elemOffset,bottom)
+
+    // if(scrollPos > elemOffset - wh + (wh) ){
+    //   console.log("have")
+    // }else{console.log("nohave")}
+
+
 }
 
     //delete more
