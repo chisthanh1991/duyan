@@ -112,7 +112,7 @@ if (toc != null) {
 
 
   let elem = $('#sidebar_first');    
-  let tocPosition = elem.offset().top + elem.outerHeight();
+  let tocPosition = elem.offset().top + elem.outerHeight(true)+30;
   //console.log(tocPosition)
 
   function scrollcatelogHandler(e) {
