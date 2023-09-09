@@ -106,12 +106,14 @@ if (toc != null) {
   window.addEventListener("scroll", scrollcatelogHandler);
 
 
-    let elem = $('#sidebar_first');    
-
   //let x = $("#sidebar_first").outerHeight();
   //let tocPosition =x+ 300.08;
   //let tocPosition =x+ 380; //420
+
+
+  let elem = $('#sidebar_first');    
   let tocPosition = elem.offset().top + elem.outerHeight();
+  //console.log(tocPosition)
 
   function scrollcatelogHandler(e) {
      let event = e || window.event,
