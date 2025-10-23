@@ -6696,29 +6696,6 @@
   </url>
   
   <url>
-    <loc>https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/copy-chuoi-trong-c/</loc>
-    <xhtml:link
-       rel="alternate"
-       hreflang="vi"
-       href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/copy-chuoi-trong-c/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="en"
-       href="https://laptrinhcanban.com/en/c/lap-trinh-c-co-ban/chuoi-string-trong-c/copy-chuoi-trong-c/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="ja"
-       href="https://laptrinhcanban.com/ja/c/lap-trinh-c-co-ban/chuoi-string-trong-c/copy-chuoi-trong-c/"/>
-    <xhtml:link
-       rel="alternate"
-       hreflang="x-default"
-       href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/copy-chuoi-trong-c/"/>
-    
-    <lastmod>2023-09-19</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/dao-nguoc-chuoi-trong-c/</loc>
     <xhtml:link
        rel="alternate"
@@ -6736,6 +6713,29 @@
        rel="alternate"
        hreflang="x-default"
        href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/dao-nguoc-chuoi-trong-c/"/>
+    
+    <lastmod>2023-09-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/copy-chuoi-trong-c/</loc>
+    <xhtml:link
+       rel="alternate"
+       hreflang="vi"
+       href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/copy-chuoi-trong-c/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="en"
+       href="https://laptrinhcanban.com/en/c/lap-trinh-c-co-ban/chuoi-string-trong-c/copy-chuoi-trong-c/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="ja"
+       href="https://laptrinhcanban.com/ja/c/lap-trinh-c-co-ban/chuoi-string-trong-c/copy-chuoi-trong-c/"/>
+    <xhtml:link
+       rel="alternate"
+       hreflang="x-default"
+       href="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/chuoi-string-trong-c/copy-chuoi-trong-c/"/>
     
     <lastmod>2023-09-19</lastmod>
     
@@ -28617,7 +28617,7 @@
 
   <url>
     <loc>https://laptrinhcanban.com/</loc>
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2025-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
